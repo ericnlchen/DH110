@@ -3,6 +3,7 @@ Eric Chen | DH110 | Spring 2023
 
 ## **About the Project:**
 This quarter, DH110 students are challenged to design a mobile app to help family members connect with one another. The connections enabled by the app should span at least 3 generations. I aim to design a **shared family journal** to solve this challenge. For more information on my project, check out the `README.md` file at the root of this DH110 repository. For this assignment, I will be evaluating two other apps which seek to enhance family connection. I will learn their strengths and weaknesses, thereby informing the development of my own project. The framework that will be used for evaluation is described below.
+<br>
 
 ## **Nielson's 10 Usability Heuristics:**
 Usability consultant and human-computer interaction researcher Jakob Nielsen developed a **usability framework** composed of 10 heuristics. These general rules can be used to evaluate how effective, efficient, and enjoyable it is to use a software or technology. Here are his 10 heuristics:
@@ -21,13 +22,14 @@ Usability consultant and human-computer interaction researcher Jakob Nielsen dev
 | 10 | Help and Documentation | provide concise and concrete documentation as needed | overburden the user with confusing documentation |
 
 Now we will examine two apps in detail using these heuristics as our framework!  
+<br>
 
-# **App 1: FamilyWall**
-<p>
-    <img src="../Images/familywall-dashboard.PNG" alt="Family wall main dashboard"/>
-</p>
-Overview & Thoughts  
-URL
+# **App 1: FamilyWall [(website link)](https://www.familywall.com/en/index.html)**
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="../Images/familywall-dashboard.PNG" alt="Family wall main dashboard" width="250px"/>
+    <p style="width: 300px; margin: 100px;"><b>Overview and First Thoughts:</b><br><br><em>FamilyWall</em> is an app that seeks to connect families by providing them with acccess to shared to-do lists, calendars, photo albums, and recipe books, while also enabling location tracking and private messaging within the family group. They also offer "premium" features including budgeting and a meal planner.<br><br>To the left, you can see the main dashboard screen of the app, which I downloaded on my iPhone for testing. The top menu which reads "Chen" indicates which "circle" (family group) I am currently a part of.</p>
+</div>
+
 ### **Heuristic 1: Visibility of System Status**
 Screenshots  
 Severity 1-3
