@@ -27,7 +27,7 @@ Now we will examine two apps in detail using these heuristics as our framework!
 # **App 1: FamilyWall [(website link)](https://www.familywall.com/en/index.html)**
 
 <p align="center">
-  <img src="../Images/familywall-start-screen.PNG" alt="Family wall start screen showing their logo" width = "300px"/>
+  <img src="../Images/familywall-start-screen1.PNG" alt="Family wall start screen showing their logo" width = "300px"/>
   <img src="../Images/familywall-dashboard.PNG" alt="Family wall main dashboard" width = "300px"/>
 </p>
 
