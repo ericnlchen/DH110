@@ -27,8 +27,9 @@ Now we will examine two apps in detail using these heuristics as our framework!
 # **App 1: FamilyWall [(website link)](https://www.familywall.com/en/index.html)**
 
 <p align="center">
-  <img src="../Images/familywall-start-screen.PNG" alt="Family wall start screen showing their logo" width = "300px"/>
   <img src="../Images/familywall-dashboard1.PNG" alt="Family wall main dashboard" width = "300px"/>
+  <img src="../Images/familywall-explore-page.PNG" alt="Family wall start screen showing their logo" width = "300px"/>
+
 </p>
 
 *FamilyWall* is an app that seeks to connect families by providing them with acccess to shared to-do lists, calendars, photo albums, and recipe books, while also enabling location tracking and private messaging within the family group. They also offer "premium" features including budgeting and a meal planner.<br>Above, you can see the main dashboard screen of the app, which I downloaded on my iPhone for testing. The top menu which reads "Chen" indicates which "circle" (family group) I am currently a part of.
