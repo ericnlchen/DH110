@@ -25,10 +25,11 @@ Now we will examine two apps in detail using these heuristics as our framework!
 <br>
 
 # **App 1: FamilyWall [(website link)](https://www.familywall.com/en/index.html)**
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img src="../Images/familywall-dashboard.PNG" alt="Family wall main dashboard" width="250px"/>
-    <p style="width: 300px; margin: 100px;"><b>Overview and First Thoughts:</b><br><br><em>FamilyWall</em> is an app that seeks to connect families by providing them with acccess to shared to-do lists, calendars, photo albums, and recipe books, while also enabling location tracking and private messaging within the family group. They also offer "premium" features including budgeting and a meal planner.<br><br>To the left, you can see the main dashboard screen of the app, which I downloaded on my iPhone for testing. The top menu which reads "Chen" indicates which "circle" (family group) I am currently a part of.</p>
-</div>
+
+![Family wall main dashboard](../Images/familywall-dashboard.PNG)
+
+*FamilyWall* is an app that seeks to connect families by providing them with acccess to shared to-do lists, calendars, photo albums, and recipe books, while also enabling location tracking and private messaging within the family group. They also offer "premium" features including budgeting and a meal planner.<br>Above, you can see the main dashboard screen of the app, which I downloaded on my iPhone for testing. The top menu which reads "Chen" indicates which "circle" (family group) I am currently a part of.
+
 
 ### **Heuristic 1: Visibility of System Status**
 Screenshots  
