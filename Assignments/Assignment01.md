@@ -203,13 +203,14 @@ These useful pages show the user what each service does...
 
 `Severity Rating: 2`
 
-### **Top 3 Proposed Changes**
+### **Top 3 Proposed Changes:**
 1. Remove the explore page and give the homescreen iOS style app icons and interactions
 2. Allow the user to pin and unpin from the homescreen directly by placing an "add service" button on the homescreen which brings up a list of all available services
 3. Add documentation for first-time users, and add links to service documentation within the services themselves  
 <br>
 
 # **App 2: Chatbooks**
-### **Top 3 Proposed Changes**
-## **References:**
+### **Top 3 Proposed Changes:**
+
+# **References:**
 Credit given to Emily Dong for markdown syntax reference
