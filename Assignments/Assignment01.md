@@ -73,23 +73,12 @@ These issues are clear violations of heuristic 1, since the state of pinned and 
 This doesn't make the app unusable but it is certainly more than a cosmetic issue. The main 2 pages of the app could definitely be redesigned to improve transparency and visual communication.  
 `Severity Rating: 2`  
 ### 2. Match Between System and Real World
-overview  
+My main critique within this heuristic is the use of the word *circle* to refer to family groups. It is not immediately clear what this word means. This might not be a huge issue, except that users are confronted with this term with no explanation when they start the app for the first time. This is the screen users are presented with when they start:
 
 <p align="center">
-  something is happening:
-</p>
-<p align="center">
-  <img src="../Images/familywall-unpin.PNG" alt="User unpins Lists service via explore page" width="200px"/>
-</p>
-<br>
-<p align="center">
-  something is happening:
-</p>
-<p align="center">
-  <img src="../Images/familywall-small-plus.PNG" alt="Explore page is unchanged except for a small plus sign on the Lists icon" width="200px"/>
+  <img src="../Images/familywall-new-cirlce.PNG" alt="Confusing startup page with the word circle" width="200px"/>
 </p>
 
-stuff
 `Severity Rating: x`  
 ### **Top 3 Proposed Changes**
 
