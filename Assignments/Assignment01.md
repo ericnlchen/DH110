@@ -175,9 +175,9 @@ Overall, I see no issues within this heuristic.
 `Severity Rating: N/A`
 ### 10. Help and Documentation
 The documentation that does exist seems concise and effective. Unfortunately, accessing said documentation is difficult. Here are a few concrete examples of what I mean.  
-<p align="center">
-  There is a short tutorial that highlights various sections of the app and provides small descriptions...
-</p>
+
+There is a short tutorial that highlights various sections of the app and provides small descriptions...
+
 <p align="center">
   <img src="../Images/familywall-homescreen-icon.jpg" alt="Tutorial highlighting the smart bulleting board feature" width="200px"/>
 </p>
@@ -188,10 +188,10 @@ The documentation that does exist seems concise and effective. Unfortunately, ac
   <img src="../Images/familywall-homescreen-icon.jpg" alt="Tutorial highlighting the family/cirlce" width="200px"/>
 </p>
 
-...but this tutorial is hidden deep in the app settings. Usability could be increased by showing this short tutorial to users when they first open the app. Here is another example:
-<p align="center">
-  These useful pages show the user what each service does...
-</p>
+...but this tutorial is hidden deep in the app settings. Usability could be increased by showing this short tutorial to users when they first open the app. Here is another example:  
+
+These useful pages show the user what each service does...
+
 <p align="center">
   <img src="../Images/familywall-homescreen-icon.jpg" alt="Comprehensive description of the Lists service" width="200px"/>
 </p>
