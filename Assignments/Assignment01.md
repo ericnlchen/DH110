@@ -89,7 +89,7 @@ I didn't find any issues with user control and freedom. Here is a strong point I
   Each service has the <em>homescreen</em> icon at the top left to easily exit at any time:
 </p>
 <p align="center">
-  <img src="../Images/familywall-unpin.PNG" alt="Recipe service with homescreen icon at top left" width="200px"/>
+  <img src="../Images/familywall-recipe.PNG" alt="Recipe service with homescreen icon at top left" width="200px"/>
 </p>
 
 `Severity Rating: N/A`  
