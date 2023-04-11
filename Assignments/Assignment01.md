@@ -72,7 +72,7 @@ These issues are clear violations of heuristic 1, since the state of pinned and 
 
 This doesn't make the app unusable but it is certainly more than a cosmetic issue. The main 2 pages of the app could definitely be redesigned to improve transparency and visual communication.  
 
-`Severity Rating: 2`  
+`Severity Rating: 3`  
 ### 2. Match Between System and Real World
 My main critique within this heuristic is the use of the word *circle* to refer to family groups. It is not immediately clear what this word means. This might not be a huge issue, except that users are confronted with this term with no explanation when they start the app for the first time. This is the screen users are presented with when they start:
 
@@ -135,7 +135,7 @@ Once again, the *homescreen* and *explore* page structure is relevant to this he
 - There are only about 10 services total, so they can easily fit on the homescreen without creating clutter
 I suggest removing the attempt at *homescreen* customization while adding flexibility and efficiency of use in other ways. For example, maybe allow the user to long tap the *Messages* service to send a preset message to a family member.  
 
-`Severity Rating: 2`
+`Severity Rating: 3`
 ### 8. Aesthetic and Minimalist Design
 All the services I tested within FamilyWall accomplish this heuristic well. For example...  
 <p align="center">
@@ -174,7 +174,7 @@ Overall, I see no issues within this heuristic.
 
 `Severity Rating: N/A`
 ### 10. Help and Documentation
-The documentation that does exist seems concise and effective. Unfortunately, accessing said documentation is difficult. Here are a few concrete examples of what I mean.  
+FamilyWall's documentation is concise and effective. Unfortunately, accessing the documentation is difficult. Here are a few concrete examples to illustrate I mean.  
 
 There is a short tutorial that highlights various sections of the app and provides small descriptions...
 
