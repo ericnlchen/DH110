@@ -180,11 +180,7 @@ There is a short tutorial that highlights various sections of the app and provid
 
 <p align="center">
   <img src="../Images/familywall-homescreen-icon.jpg" alt="Tutorial highlighting the smart bulleting board feature" width="200px"/>
-</p>
-<p align="center">
   <img src="../Images/familywall-homescreen-icon.jpg" alt="Tutorial highlighting the homescreen" width="200px"/>
-</p>
-<p align="center">
   <img src="../Images/familywall-homescreen-icon.jpg" alt="Tutorial highlighting the family/cirlce" width="200px"/>
 </p>
 
