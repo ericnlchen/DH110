@@ -76,7 +76,7 @@ This doesn't make the app unusable but it is certainly more than a cosmetic issu
 My main critique within this heuristic is the use of the word *circle* to refer to family groups. It is not immediately clear what this word means. This might not be a huge issue, except that users are confronted with this term with no explanation when they start the app for the first time. This is the screen users are presented with when they start:
 
 <p align="center">
-  <img src="../Images/familywall-new-cirlce.PNG" alt="Confusing startup page with the word circle" width="200px"/>
+  <img src="../Images/familywall-new-circle.PNG" alt="Confusing startup page with the word circle" width="200px"/>
 </p>
 
 `Severity Rating: x`  
