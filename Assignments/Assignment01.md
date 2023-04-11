@@ -101,15 +101,18 @@ However, this app's external consistency is questionable. As the user, the look 
   Would you expect to find these icons on a <em>homescreen</em>?
 </p>
 <p align="center">
-  <img src="../Images/familywall-explore-icon.PNG" alt="Square-shaped app icon" width="200px"/>
+  <img src="../Images/familywall-explore-icon.jpg" alt="Square-shaped app icon" width="200px"/>
 </p>
 <br>
 <p align="center">
   In FamilyWall, those icons reside elsewhere, while these long rectangular icons populate the homescreen instead:
 </p>
 <p align="center">
-  <img src="../Images/familywall-homescreen-icon.PNG" alt="Long rectangular icon" width="200px"/>
+  <img src="../Images/familywall-homescreen-icon.jpg" alt="Long rectangular icon" width="200px"/>
 </p>
+
+While users can probably get used to these inconsistencies as they use the app, usability could be greatly improved by enabling iOS-style homescreen interactions whenever the visual similarities might cause the user to attempt iOS-style actions.
+
 `Severity Rating: 2`  
 ### **Top 3 Proposed Changes**
 
