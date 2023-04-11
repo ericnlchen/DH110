@@ -212,6 +212,11 @@ These useful pages show the user what each service does...
 # **App 2: Waffle [(website link)](https://www.wafflejournal.com/)**
 
 ## **First Look:**
+<p align="center">
+  <img src="../Images/waffle-startup.PNG" alt="Waffle startup screen" width = "300px"/>
+  <img src="../Images/waffle-journals.PNG" alt="Waffle journals view screen showing one journal" width = "300px"/>
+</p>
+
 Waffle is a journal app that allows families and friends to share their thoughts and experiences with one another. The user can invite others to their journal and then add entries which will be visible to everyone who they invited. Waffle also provides daily AI-generated prompts whose topics are influenced by all the entries you have written before.  
 
 My first impression is positive, since the app has a very clean and easy to use interface. However, there are still some usability issues that we will get into now.
@@ -220,10 +225,10 @@ My first impression is positive, since the app has a very clean and easy to use 
 ### 1. Visibility of System Status
 The main issue I found with visibility was the drafts functionality. Users are told that pressing the **X** button while in the middle of writing an entry will save their work as a draft. However, I am unable to identify where the drafts are saved, if they are saved at all. The sudden disappearance of a long entry that the user was working on is a clear violation of heuristic 1.  
 <p align="center">
-  The following instructions are provided for drafts, but the draft disappears when you click the <b>X</b> button:
+  The following instructions are provided for drafts, but the draft actually just disappears when you click the <b>X</b> button:
 </p>
 <p align="center">
-  <img src="../Images/waffle-.PNG" alt="Instructions telling the user to Tap X to save the entry as a draft" width="200px"/>
+  <img src="../Images/waffle-draft.jpg" alt="Instructions telling the user to Tap X to save the entry as a draft" width="300px"/>
 </p>
 
 This is a serious issue, since it could cause users a lot of frustration to find out that they're draft was not saved, or to be unable to locate where it was saved.  
