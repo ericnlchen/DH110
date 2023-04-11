@@ -96,8 +96,20 @@ I didn't find any issues with user control and freedom. Here is a strong point I
 ### 4. Consistency & Standards
 This app exhibits good internal consistency, with terminology and actions remaining constant within the app.  
 
-However, this app's external consistency is questionable. As the user, the look and feel of the *homescreen* and *explore* page remind me strongly of the iPhone homescreen. The various family services are analogous to iOS apps. This analogy establishes the need for external consistency, since users will expect to be able to interact with these interfaces the same way that they interact with their iPhone homescreen. However, the consistency is not always there. For example, the *explore* page looks just like the iPhone homescreen, while the actual *homescreen* trades iOS style icons for wider icons. This makes it unclear which screen is meant to function as the user's home. Furthermore, the iPhone-esque look makes me instinctively try to swipe to switch between the two screens, but swiping isn't supported.  
-
+However, this app's external consistency is questionable. As the user, the look and feel of the *homescreen* and *explore* page remind me strongly of the iPhone homescreen, and the various family services are just like iOS apps. This analogy establishes the need for external consistency, since users will expect to be able to interact with these interfaces the same way that they interact with their iPhone homescreen. However, the consistency is not always there. For example, the *explore* page looks just like the iPhone homescreen, while the actual *homescreen* trades iOS style icons for wider icons. This makes it unclear which screen is meant to function as the user's home. Furthermore, the iPhone-esque look makes me instinctively try to swipe to switch between the two screens, but swiping isn't supported.  
+<p align="center">
+  Would you expect to find these icons on a <em>homescreen</em>?
+</p>
+<p align="center">
+  <img src="../Images/familywall-explore-icon.PNG" alt="Square-shaped app icon" width="200px"/>
+</p>
+<br>
+<p align="center">
+  In FamilyWall, those icons reside elsewhere, while these long rectangular icons populate the homescreen instead:
+</p>
+<p align="center">
+  <img src="../Images/familywall-homescreen-icon.PNG" alt="Long rectangular icon" width="200px"/>
+</p>
 `Severity Rating: 2`  
 ### **Top 3 Proposed Changes**
 
