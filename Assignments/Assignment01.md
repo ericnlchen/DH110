@@ -213,4 +213,4 @@ These useful pages show the user what each service does...
 ### **Top 3 Proposed Changes:**
 
 # **References:**
-Credit given to Emily Dong for markdown syntax reference
+Credit given to Emily Dong for markdown syntax reference.
