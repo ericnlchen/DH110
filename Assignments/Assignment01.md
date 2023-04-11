@@ -111,7 +111,7 @@ However, this app's external consistency is questionable. As the user, the look 
   <img src="../Images/familywall-homescreen-icon.jpg" alt="Long rectangular icon" width="200px"/>
 </p>
 
-While users can probably get used to these inconsistencies as they use the app, usability could be greatly improved by enabling iOS-style homescreen interactions whenever the visual similarities might cause the user to attempt iOS-style actions.
+While users can probably get used to these inconsistencies as they use the app, usability could be greatly improved by enabling iOS-style homescreen interactions wherever visual similarities to iOS exist.
 
 `Severity Rating: 2`  
 ### **Top 3 Proposed Changes**
