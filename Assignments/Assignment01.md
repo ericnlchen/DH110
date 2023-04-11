@@ -101,7 +101,7 @@ However, this app's external consistency is questionable. As the user, the look 
   Would you expect to find these icons on a <em>homescreen</em>?
 </p>
 <p align="center">
-  <img src="../Images/familywall-explore-icon.jpg" alt="Square-shaped app icon" width="200px"/>
+  <img src="../Images/familywall-explore-icon.jpg" alt="Square-shaped app icon" width="150px"/>
 </p>
 <br>
 <p align="center">
