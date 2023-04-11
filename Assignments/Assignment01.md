@@ -152,7 +152,30 @@ All the services I tested within FamilyWall accomplish this heuristic well. For 
   <img src="../Images/familywall-homescreen-icon.jpg" alt="The Activity service" width="200px"/>
 </p>
 
+I have no critiques on this heuristic.  
+
 `Severity Rating: N/A`
+### 9. Help Users Recognize, Diagnose, and Recover From Errors
+I managed to create a few "error-like" conditions to test this heuristic. First, I tried sending a message even though I haven't added any family members in my *circle*. I was shown this screen: 
+<p align="center">
+  <img src="../Images/familywall-homescreen-icon.jpg" alt="Empty circle error message" width="200px"/>
+</p>
+
+This error uses clear communication and easy-to-understand language with no technical jargon. It doesn't use bold, red text but that is acceptable since this isn't a critical error.  
+
+I also tried to create a new calendar event without a name. This was the error message I received:  
+<p align="center">
+  <img src="../Images/familywall-homescreen-icon.jpg" alt="Error message reading: please give this event a name" width="200px"/>
+</p>
+
+This error message is also quite clear. Again, no bold, red text but that would be overkill for a simple error like this.  
+
+Overall, I see no issues within this heuristic.  
+
+`Severity Rating: N/A`
+### 10. 
+
+
 ### **Top 3 Proposed Changes**
 
 # **App 2: Chatbooks**
