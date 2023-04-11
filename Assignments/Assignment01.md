@@ -123,6 +123,36 @@ FamilyWall performed well on this heuristic. One good example of error preventio
   <img src="../Images/familywall-homescreen-icon.jpg" alt="Logout warning" width="200px"/>
 </p>
 
+`Severity Rating: N/A`  
+### 6. Recognition Rather than Recall
+The awkward design of the *homescreen* and *explore* page (discussed in heuristic 1) affects this heuristic as well. In order to add a new service to the *homescreen*, the user has to navigate away to the *explore* page and find the service by memory. The memory load on the user could be decreased by adding an "add new service" button on the *homescreen*, which would display the list of available services. This way, users could recognize the service options in context rather than having to remember them and go find them on a separate page.  
+
+`Severity Rating: 1`  
+### 7. Flexibility and Efficiency of Use
+Once again, the *homescreen* and *explore* page structure is relevant to this heuristic. The purpose of the *homescreen* was presumably to provide flexbility and efficiency, allowing users to access their most frequently used services quickly. This didn't work effectively. Here are a couple of issues with the design with regard to this heuristic:
+- Pinning and unpinning from the *homescreen* is unintuitive, creating a barrier to customization
+- It looks like user should be able to open services directly from the *explore* page, but it isn't possible
+- There are only about 10 services total, so they can easily fit on the homescreen without creating clutter
+I suggest removing the attempt at *homescreen* customization while adding flexibility and efficiency of use in other ways. For example, maybe allow the user to long tap the *Messages* service to send a preset message to a family member.  
+
+`Severity Rating: 2`
+### 8. Aesthetic and Minimalist Design
+All the services I tested within FamilyWall accomplish this heuristic well. For example...  
+<p align="center">
+  The <em>Lists</em> service is aesthetically appealing and simple, with only a few elements on-screen:
+</p>
+<p align="center">
+  <img src="../Images/familywall-homescreen-icon.jpg" alt="The Lists service" width="200px"/>
+</p>
+<br>
+<p align="center">
+  The <em>Activity</em> service shows all family members' recent activity on the app. This could be overwhelming but the minimalist design makes it manageable and clear:
+</p>
+<p align="center">
+  <img src="../Images/familywall-homescreen-icon.jpg" alt="The Activity service" width="200px"/>
+</p>
+
+`Severity Rating: N/A`
 ### **Top 3 Proposed Changes**
 
 # **App 2: Chatbooks**
