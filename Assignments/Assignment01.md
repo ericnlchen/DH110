@@ -84,12 +84,19 @@ This issue could be resolved by using a different term like "family group," or b
 
 `Severity Rating: 1`  
 ### 3. User Control & Freedom
-I didn't find any issues with user control and freedom. Here is a strong point I noticed with regard to this heuristic:
+I didn't find any issues with user control and freedom. Here are a few strong points I noticed with regard to this heuristic:
 <p align="center">
   Each service has the <em>homescreen</em> icon at the top left to easily exit at any time:
 </p>
 <p align="center">
   <img src="../Images/familywall-recipe.PNG" alt="Recipe service with homescreen icon at top left" width="200px"/>
+</p>
+<br>
+<p align="center">
+  The <em>Panic Alert</em> feature has a prominent cancel button:
+</p>
+<p align="center">
+  <img src="../Images/familywall-.PNG" alt="Panic alert with cancel button" width="200px"/>
 </p>
 
 `Severity Rating: N/A`  
