@@ -127,7 +127,7 @@ FamilyWall performed well on this heuristic. One good example of error preventio
   Helpful warning when user attempts to log out:
 </p>
 <p align="center">
-  <img src="../Images/familywall-logout.jpg" alt="Logout warning" width="200px"/>
+  <img src="../Images/familywall-logout.PNG" alt="Logout warning" width="200px"/>
 </p>
 
 `Severity Rating: N/A`  
@@ -149,14 +149,14 @@ All the services I tested within FamilyWall accomplish this heuristic well. For 
   The <em>Lists</em> service is aesthetically appealing and simple, with only a few elements on-screen:
 </p>
 <p align="center">
-  <img src="../Images/familywall-lists.jpg" alt="The Lists service" width="200px"/>
+  <img src="../Images/familywall-lists.PNG" alt="The Lists service" width="200px"/>
 </p>
 <br>
 <p align="center">
   The <em>Activity</em> service shows all family members' recent activity on the app. This could be overwhelming but the minimalist design makes it manageable and clear:
 </p>
 <p align="center">
-  <img src="../Images/familywall-activity.jpg" alt="The Activity service" width="200px"/>
+  <img src="../Images/familywall-activity.PNG" alt="The Activity service" width="200px"/>
 </p>
 
 I have no critiques on this heuristic.  
@@ -165,14 +165,14 @@ I have no critiques on this heuristic.
 ### 9. Help Users Recognize, Diagnose, and Recover From Errors
 I managed to create a few "error-like" conditions to test this heuristic. First, I tried sending a message even though I haven't added any family members in my *circle*. I was shown this screen: 
 <p align="center">
-  <img src="../Images/familywall-empty-circle.jpg" alt="Empty circle error message" width="200px"/>
+  <img src="../Images/familywall-empty-circle.jpg" alt="Empty circle error message" width="300px"/>
 </p>
 
 This error uses clear communication and easy-to-understand language with no technical jargon. It doesn't use bold, red text but that is acceptable since this isn't a critical error.  
 
 I also tried to create a new calendar event without a name. This was the error message I received:  
 <p align="center">
-  <img src="../Images/familywall-calendar-error.jpg" alt="Error message reading: please give this event a name" width="200px"/>
+  <img src="../Images/familywall-calendar-error.jpg" alt="Error message reading: please give this event a name" width="300px"/>
 </p>
 
 This error message is also quite clear. Again, no bold, red text but that would be overkill for a simple error like this.  
@@ -186,9 +186,9 @@ FamilyWall's documentation is concise and effective. Unfortunately, accessing th
 There is a short tutorial that highlights various sections of the app and provides small descriptions...
 
 <p align="center">
-  <img src="../Images/familywall-tut1.jpg" alt="Tutorial highlighting the smart bulleting board feature" width="200px"/>
-  <img src="../Images/familywall-tut2.jpg" alt="Tutorial highlighting the homescreen" width="200px"/>
-  <img src="../Images/familywall-tut3.jpg" alt="Tutorial highlighting the family/cirlce" width="200px"/>
+  <img src="../Images/familywall-tut1.PNG" alt="Tutorial highlighting the smart bulleting board feature" width="200px"/>
+  <img src="../Images/familywall-tut2.PNG" alt="Tutorial highlighting the homescreen" width="200px"/>
+  <img src="../Images/familywall-tut3.PNG" alt="Tutorial highlighting the family/cirlce" width="200px"/>
 </p>
 
 ...but this tutorial is hidden deep in the app settings. Usability could be increased by showing this short tutorial to users when they first open the app. Here is another example:  
@@ -196,7 +196,7 @@ There is a short tutorial that highlights various sections of the app and provid
 These useful pages show the user what each service does...
 
 <p align="center">
-  <img src="../Images/familywall-lists-tut.jpg" alt="Comprehensive description of the Lists service" width="200px"/>
+  <img src="../Images/familywall-lists-tut.PNG" alt="Comprehensive description of the Lists service" width="200px"/>
 </p>
 
 ...but they are only accessible through the *explore* page. This is especially bad because it means that users can't actually access this documentation while they're using the service. So help will be difficult to find when they actually need it.  
