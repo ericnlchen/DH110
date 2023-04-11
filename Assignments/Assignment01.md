@@ -71,6 +71,7 @@ Furthermore, once the user navigates back to the *homescreen*, their unpinned se
 These issues are clear violations of heuristic 1, since the state of pinned and unpinned services is nearly invisible to the user.  
 
 This doesn't make the app unusable but it is certainly more than a cosmetic issue. The main 2 pages of the app could definitely be redesigned to improve transparency and visual communication.  
+
 `Severity Rating: 2`  
 ### 2. Match Between System and Real World
 My main critique within this heuristic is the use of the word *circle* to refer to family groups. It is not immediately clear what this word means. This might not be a huge issue, except that users are confronted with this term with no explanation when they start the app for the first time. This is the screen users are presented with when they start:
@@ -79,7 +80,9 @@ My main critique within this heuristic is the use of the word *circle* to refer 
   <img src="../Images/familywall-new-circle.PNG" alt="Confusing startup page with word circle" width="200px"/>
 </p>
 
-`Severity Rating: x`  
+This issue could be resolved by using a different term like "family group," or by providing a concise explanation of what a *circle* is when the user first starts the app.  
+
+`Severity Rating: 1`  
 ### **Top 3 Proposed Changes**
 
 # **App 2: Chatbooks**
