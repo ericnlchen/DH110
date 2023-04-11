@@ -91,6 +91,7 @@ I didn't find any issues with user control and freedom. Here is a strong point I
 <p align="center">
   <img src="../Images/familywall-unpin.PNG" alt="Recipe service with homescreen icon at top left" width="200px"/>
 </p>
+
 `Severity Rating: N/A`  
 ### **Top 3 Proposed Changes**
 
