@@ -114,6 +114,15 @@ However, this app's external consistency is questionable. As the user, the look 
 While users can probably get used to these inconsistencies as they use the app, usability could be greatly improved by enabling iOS-style homescreen interactions wherever visual similarities to iOS exist.
 
 `Severity Rating: 2`  
+### 5. Error Prevention
+FamilyWall performed well on this heuristic. One good example of error prevention that I found was the warning that is provided when the user tries to log out of their account:
+<p align="center">
+  Helpful warning when user attempts to log out:
+</p>
+<p align="center">
+  <img src="../Images/familywall-homescreen-icon.jpg" alt="Logout warning" width="200px"/>
+</p>
+
 ### **Top 3 Proposed Changes**
 
 # **App 2: Chatbooks**
