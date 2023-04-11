@@ -83,6 +83,15 @@ My main critique within this heuristic is the use of the word *circle* to refer 
 This issue could be resolved by using a different term like "family group," or by providing a concise explanation of what a *circle* is when the user first starts the app.  
 
 `Severity Rating: 1`  
+### 3. User Control & Freedom
+I didn't find any issues with user control and freedom. Here is a strong point I noticed with regard to this heuristic:
+<p align="center">
+  Each service has the <em>homescreen</em> icon at the top left to easily exit at any time:
+</p>
+<p align="center">
+  <img src="../Images/familywall-unpin.PNG" alt="Recipe service with homescreen icon at top left" width="200px"/>
+</p>
+`Severity Rating: N/A`  
 ### **Top 3 Proposed Changes**
 
 # **App 2: Chatbooks**
