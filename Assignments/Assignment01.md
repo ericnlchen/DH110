@@ -49,42 +49,51 @@ In my testing I immediately discovered a visibility issue. The *homescreen* is d
   The user unpins the <em>Lists</em> service from the <em>homescreen</em> via the <em>explore</em> page:
 </p>
 <p align="center">
-  <img src="../Images/familywall-dashboard1.PNG" alt="Family wall main dashboard" width = "200px"/>
+  <img src="../Images/familywall-unpin.PNG" alt="User unpins Lists service via explore page" width="200px"/>
 </p>
 <br>
 <p align="center">
-  Tiny plus sign is not sufficient communication to communicate the new state of the <em>homescreen</em>:
+  Tiny plus sign is not sufficient communication to communicate the effect of the user's action:
 </p>
 <p align="center">
-  <img src="../Images/familywall-explore-page.PNG" alt="Family wall start screen showing their logo" width = "200px"/>
+  <img src="../Images/familywall-small-plus.PNG" alt="Explore page is unchanged except for a small plus sign on the Lists icon" width="200px"/>
 </p>
 <br>
 <p align="center">
   User has to navigate to <em>homescreen</em> to see the effect of their action (<em>Lists</em> is gone):
 </p>
 <p align="center">
-  <img src="../Images/familywall-explore-page.PNG" alt="Family wall start screen showing their logo" width = "200px"/>
+  <img src="../Images/familywall-home-without-list.PNG" alt="Home page missing the Lists service" width="200px"/>
 </p>
 
 Furthermore, once the user navigates back to the *homescreen*, their unpinned services are nowhere to be seen. In order to see the services they unpinned, the user needs to navigate back to the *explore* page again, which is unintuitive.  
 
 These issues are clear violations of heuristic 1, since the state of pinned and unpinned services is nearly invisible to the user.  
 
+This doesn't make the app unusable but it is certainly more than a cosmetic issue. The main 2 pages of the app could definitely be redesigned to improve transparency and visual communication.  
 `Severity Rating: 2`  
-This doesn't make the app unusable but it is certainly more than a cosmetic issue. The main 2 pages of the app could definitely be redesigned to improve transparency and visual communication.
+### 2. Match Between System and Real World
+overview  
 
-Severity 1-3
-### **Heuristic 1: Visibility of System Status**
+<p align="center">
+  something is happening:
+</p>
+<p align="center">
+  <img src="../Images/familywall-unpin.PNG" alt="User unpins Lists service via explore page" width="200px"/>
+</p>
+<br>
+<p align="center">
+  something is happening:
+</p>
+<p align="center">
+  <img src="../Images/familywall-small-plus.PNG" alt="Explore page is unchanged except for a small plus sign on the Lists icon" width="200px"/>
+</p>
+
+stuff
+`Severity Rating: x`  
 ### **Top 3 Proposed Changes**
 
 # **App 2: Chatbooks**
-Overview & Thoughts  
-URL
-### **Heuristic 1: Visibility of System Status**
-Screenshots  
-Severity 1-3
-### **Heuristic 1: Visibility of System Status**
 ### **Top 3 Proposed Changes**
-
 ## **References:**
 Credit given to Emily Dong for markdown syntax reference
