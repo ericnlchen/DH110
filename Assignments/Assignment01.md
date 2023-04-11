@@ -93,6 +93,12 @@ I didn't find any issues with user control and freedom. Here is a strong point I
 </p>
 
 `Severity Rating: N/A`  
+### 4. Consistency & Standards
+This app exhibits good internal consistency, with terminology and actions remaining constant within the app.  
+
+However, this app's external consistency is questionable. As the user, the look and feel of the *homescreen* and *explore* page remind me strongly of the iPhone homescreen. The various family services are analogous to iOS apps. This analogy establishes the need for external consistency, since users will expect to be able to interact with these interfaces the same way that they interact with their iPhone homescreen. However, the consistency is not always there. For example, the *explore* page looks just like the iPhone homescreen, while the actual *homescreen* trades iOS style icons for wider icons. This makes it unclear which screen is meant to function as the user's home. Furthermore, the iPhone-esque look makes me instinctively try to swipe to switch between the two screens, but swiping isn't supported.  
+
+`Severity Rating: 2`  
 ### **Top 3 Proposed Changes**
 
 # **App 2: Chatbooks**
