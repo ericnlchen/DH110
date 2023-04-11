@@ -235,32 +235,53 @@ This is a serious issue, since it could cause users a lot of frustration to find
 
 `Severity Rating: 3`  
 ### 2. Match Between System and Real World
-Some of the prompts language is not super clear (ok, then pick a cover and name it." and Are you invited?)
-Not clear what Entry, Question, and Event mean
+Waffle generally uses intuitve language and conventions. However, some of the language and terminology used within the entry view is not entirely clear. Specifically, it's hard to understand what the terms "Entry," "Question," and "Event" mean in this context until you actually tap on them and try them out.
+<p align="center">
+  <img src="../Images/waffle-entry-question-event.PNG" alt="User can choose between 3 entry types: entry, question, and event" width="200px"/>
+</p>
+
+This is a very minor usability concern, since the user can just tap on each option to see how their entry changes.  
 
 `Severity Rating: 1`  
 ### 3. User Control & Freedom
-Fine, good exit signs
+I saw no issues with user control and freedom on Waffle. Each action had clear backtracking/exit buttons, and I never felt trapped.
 
 `Severity Rating: N/A`  
 ### 4. Consistency & Standards
-Having the goal of the journal at the bottom as the first entry is confusing, doesn't match the expected convention
+One small standards issue I noticed was that my paragraph about the goal of the journal was displayed as the first entry of the journal, and it looked exactly the same as the other entries. This didn't match my expectation based on standard conventions I am used to. I would expect the goal of the journal to display separately or to be visually distinguished by bolded text.  
+<p align="center">
+  The goal of the journal is shown in red, looking exactly the same as the other entry above:
+</p>
+<p align="center">
+  <img src="../Images/waffle-goal.PNG" alt="The goal of my journal displays just like any other entry" width="200px"/>
+</p>
 
 `Severity Rating: 1`  
 ### 5. Error Prevention
-There is no warning before deletion and there is no way to recover deleted entries
+In Waffle, there is no warning before entry deletion and there is no way to recover deleted entries. You simply delete entries by pressing this delete button:
+<p align="center">
+  <img src="../Images/waffle-delete.PNG" alt="Onscreen option to delete an entry" width="200px"/>
+</p>
+
+I consider this a relatively severe issue, since journal entries could contain the valuable life stories of loved ones, and accidental deletion could be devastating. The only potential redeeming point is the "local backup" option, which *might* enable recovery of deleted items. But this feature is locked behind a paywall, which seems unnecessary and frustrating.
 
 `Severity Rating: 2`  
 ### 6. Recognition Rather than Recall
-Draft functionality is kind of bad idea, since you need to click "Draft" in order to see the instructions for drafts. This is in addition to the fact that it doesn't work.
+We already discussed how the draft functionality does not work under heuristic 1. But there is another issue related to drafts: the instructions for how to save a draft are only visible when the user clicks on an awkwardly placed "Draft" button, and then they disappear when the user returns to their in-progress entry. This forces the user to memorize the draft instructions rather than being able to click a dedicated button which saves the entry as a draft.  
 
 `Severity Rating: 2`  
 ### 7. Flexibility and Efficiency of Use
 Not customizable. If you have tons of journals or entries, it might be nice if you could star them or something.
+General efficiency of use seems high, since there aren't too many different functionalities within this app.  
+
+If I had to critique one thing about this heuristic, I would say that the customization and shortcut options could be improved. For example, it might be nice if the user could "favorite" notebooks and entries. This would be especially useful if the user had accumulated a large number of entries.  
 
 `Severity Rating: 1`
 ### 8. Aesthetic and Minimalist Design
-All good
+The design of this app is extremely aesthetically appealing and minimal. One of my favorite design choices is the use of this ticket graphic for sharing your invitation code:
+<p align="center">
+  <img src="../Images/waffle-ticket.PNG" alt="A minimal ticket graphic with the invitation code on it" width="200px"/>
+</p>
 
 `Severity Rating: N/A`
 ### 9. Help Users Recognize, Diagnose, and Recover From Errors
