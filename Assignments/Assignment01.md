@@ -22,6 +22,8 @@ Usability consultant and human-computer interaction researcher Jakob Nielsen dev
 | 10 | Help and Documentation | provide concise and concrete documentation as needed | overburden the user with confusing documentation |
 
 Now we will examine two apps in detail using these heuristics as our framework!  
+
+*Note: Severity ratings are on a scale from 1 to 3, with 1 being a minor issue and 3 being a serious issue.*
 <br>
 
 # **App 1: FamilyWall [(website link)](https://www.familywall.com/en/index.html)**
