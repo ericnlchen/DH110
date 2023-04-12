@@ -285,7 +285,7 @@ The design of this app is extremely aesthetically appealing and minimal. One of 
 
 `Severity Rating: N/A`
 ### 9. Help Users Recognize, Diagnose, and Recover From Errors
-It was unable to encounter error situations in Waffle, so I have nothing to comment on this heuristic.  
+I was unable to encounter error situations in Waffle, so I have nothing to comment on this heuristic.  
 
 `Severity Rating: N/A`
 ### 10. Help and Documentation
