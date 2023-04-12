@@ -285,18 +285,17 @@ The design of this app is extremely aesthetically appealing and minimal. One of 
 
 `Severity Rating: N/A`
 ### 9. Help Users Recognize, Diagnose, and Recover From Errors
-Fine
+It was unable to encounter error situations in Waffle, so I have nothing to comment on this heuristic.  
 
 `Severity Rating: N/A`
 ### 10. Help and Documentation
-It's provided at the start, would be nice if it was also available during the experience of using the app.
+Upon starting the app, clear, concise, and detailed documentation is provided. However, there appears to be no way to access the documentation again later while using the app. It would be nice if such a functionality was available for a refresher on the app's various features.  
 
 `Severity Rating: 1`
-
 ### **Top 3 Proposed Changes:**
-1. 
-2. 
-3. 
+1. Fix the drafts functionality so that they actually save! Add clearer instructions for how to save drafts.
+2. Confirm with the user before deleting journal entries.
+3. Add customizability options (like a favorites feature for entries).
 <br>
 
 # **References:**
