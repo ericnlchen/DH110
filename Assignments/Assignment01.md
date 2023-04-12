@@ -253,7 +253,7 @@ One small standards issue I noticed was that my paragraph about the goal of the 
   The goal of the journal is shown in red, looking exactly the same as the other entry above:
 </p>
 <p align="center">
-  <img src="../Images/waffle-goal.PNG" alt="The goal of my journal displays just like any other entry" width="200px"/>
+  <img src="../Images/waffle-goal.jpg" alt="The goal of my journal displays just like any other entry" width="200px"/>
 </p>
 
 `Severity Rating: 1`  
