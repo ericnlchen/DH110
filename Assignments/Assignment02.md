@@ -20,7 +20,8 @@ Finally, the participant was provided with more general statments about the webs
 - How easy it was to learn
 - Simplicity/complexity
 - Degree of integration between various functions
-- Degree of confidence using the app
+- Degree of confidence using the app  
+
 Please see the **Test Materials** section below for the full list of questions.
 
 ## **Test Materials:**
