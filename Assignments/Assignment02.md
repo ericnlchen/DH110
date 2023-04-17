@@ -12,7 +12,7 @@ Describe how the participants were recruited. Describe the individual sessions â
 The usability materials [here](https://forms.gle/your-url-here)
 
 ## **Video of Session:**
-The embedded video goes here
+[![My video](http://img.youtube.com/vi/p_ZU-9lD03c/0.jpg)](https://www.youtube.com/watch?v=p_ZU-9lD03c "My video")
 
 ## **Reflection:**
 Write a short paragraph about:
