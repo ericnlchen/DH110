@@ -11,7 +11,17 @@ For this assignment, I am conducting a **pilot** test, which means that its purp
 Since this is a pilot test, I have one participant. My participant tested the current version of the Waffle app on their Apple iPhone while filling out survey results on their personal laptop, which was also connected to me on a Zoom call. The participant's laptop camera captured their face throughout the duration of the test. The iPhone screen recording tool captured the participant's interactions with their phone.
 
 ## **Methodology:**
-Describe how the participants were recruited. Describe the individual sessions – length of time and what happened during those sessions. Explain what the participant was asked to do and what happened post test session. Describe any pre- or post-test questionnaires. Include the subjective and overall questionnaires in the attachments’ section.
+The participant was recruited by directly asking them in-person, and they volunteered their time with no compensation. The session lasted for just over 30 minutes. During the session, I acted as the moderator. First, I explained the test session and asked the participant for their informed consent. Then, I asked some pre-test questions before the participant interacted with the Waffle app. Next, I asked the participant to complete 3 tasks and when they completed all 3, they filled out 7-point Likert scale questions aimed at evaluating:
+- How easy the tasks were
+- How long the tasks took
+- How likely the user was to do those tasks
+Finally, the participant was provided with more general statments about the website which they agreed or disagreed with on a 7-point Likert scale. The qualities measured included:
+- Ease of use
+- How easy it was to learn
+- Simplicity/complexity
+- Degree of integration between various functions
+- Degree of confidence using the app
+Please see the **Test Materials** section below for the full list of questions.
 
 ## **Test Materials:**
 The test questionnaire can be found [here.](https://forms.gle/your-url-here)
