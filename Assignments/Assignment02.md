@@ -33,6 +33,8 @@ The test questionnaire can be found [here.](https://forms.gle/hW4whp9HpB8r29i7A)
 [![My video](http://img.youtube.com/vi/p_ZU-9lD03c/0.jpg)](https://www.youtube.com/watch?v=p_ZU-9lD03c "My video")
 
 ## **Reflection:**
-In conducting this pilot test, I learned that my first two tasks may have been too trivial. My participant completed these tasks very easily and quickly. This is still a useful finding, since it suggests that the usability for those parts of the interface is good, but it may have been better to challenge the user more in order to extract more issues from the test.  
+In conducting this pilot test, I learned that my first two tasks may have been too trivial. My participant completed these tasks very easily and quickly. This is still a useful finding, since it suggests that the usability for those parts of the interface is good, but it may have been better to challenge the user more in order to discover more issues.  
+
 My third task in the test went quite well, since the user provided useful information by struggling to complete the task and then finding a solution which I didn't even know about. Another aspect that went well was the users ability to speak out loud throughout the whole test--this provides lots of detailed information which could help someone better tailor the app to the users' needs.  
+
 Going forward, I will extend my first two tasks so that they have a higher likelihood of exposing new usability issues. For example, maybe I can ask users to try posting an entry, a question, and an event (3 types of writing you can post in your journal). I could also ask users to try deleting an entry, or to enable the "question of the day" functionality. All of these extensions could make the tasks more challenging and enable me to extract better data.
