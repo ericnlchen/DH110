@@ -9,7 +9,7 @@ In the previous assignments, I found that existing shared journal tools lack the
 
 ## **Personas:**
 <p align="center">
-  John
+  <h2>JOHN</h2>
 </p>
 <p align="center">
   <img src="../Images/persona-john.png" alt="persona information for John" width="900px"/>
