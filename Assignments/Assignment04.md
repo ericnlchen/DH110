@@ -8,7 +8,7 @@ In this assignment, I create two *personas*--fictional characters that represent
 In the previous assignments, I found that existing shared journal tools lack the ease-of-use that might be needed for an elderly grandparent. This finding influenced the personas I developed in this assignment.
 
 ## **Personas:**
-### Persona 1 ••• John
+### •••John•••
 <p align="center">
   <img src="../Images/persona-john.png" alt="persona information for John" width="900px"/>
 </p>
