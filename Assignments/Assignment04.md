@@ -9,6 +9,9 @@ In the previous assignments, I found that existing shared journal tools lack the
 
 ## **Personas:**
 ### Persona 1  
+<p align="center">
+  <img src="../Images/persona-john.png" alt="persona information for John" width="300px"/>
+</p>
 ### Persona 2 
 
 ## **Scenarios:**
