@@ -14,7 +14,9 @@ In the previous assignments, I found that existing shared journal tools lack the
 <p align="center">
   <img src="../Images/empathy-john.png" alt="empathy map for John" width="800px"/>
 </p>
+
 ---
+
 <p align="center">
   <img src="../Images/persona-erica.png" alt="persona information for Erica" width="900px"/>
 </p>
