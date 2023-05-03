@@ -9,15 +9,18 @@ In the previous assignments, I found that existing shared journal tools lack the
 
 ## **Personas:**
 <p align="center">
-  <h2 width="300px">JOHN</h2>
-</p>
-<p align="center">
   <img src="../Images/persona-john.png" alt="persona information for John" width="900px"/>
 </p>
 <p align="center">
   <img src="../Images/empathy-john.png" alt="empathy map for John" width="800px"/>
 </p>
-### Persona 2 
+<br>
+<p align="center">
+  <img src="../Images/persona-erica.png" alt="persona information for Erica" width="900px"/>
+</p>
+<p align="center">
+  <img src="../Images/empathy-erica.png" alt="empathy map for Erica" width="800px"/>
+</p>
 
 ## **Scenarios:**
 ### Scenario 1
