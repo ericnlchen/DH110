@@ -42,6 +42,15 @@ Later that day, Erica talks with her parents and encourages them to join the sha
   <img src="../Images/journey-erica.png" alt="journey map for Erica" width="900px"/>
 </p>
 
-### Scenario 2
+### Scenario #2
+#### Intention & Goal (WHY):
+It's Monday morning and John is starting his day when he remembers the journaling app that his granddaughter Erica shared with him yesterday. He feels excited to try using the app to interact with Erica and her parents. 
+
+#### Action (HOW):
+
+#### Journey Map:
+<p align="center">
+  <img src="../Images/journey-john.png" alt="journey map for John" width="900px"/>
+</p>
 
 ## **Reflection:**
