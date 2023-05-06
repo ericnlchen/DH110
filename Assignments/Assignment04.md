@@ -26,6 +26,8 @@ In the previous assignments, I found that existing shared journal tools lack the
 
 ## **Scenarios:**
 ### Scenario 1
+You need to break down each interaction step, vividly describe what kind of information is provided, what kind of interface was provided (ex. Button labeled “post”), and what the persona perceived, understood, and took an action (ex. Press the button labed “post”). Then, what happens after the persona’s action (ex. System feedback) and how the persona evaluated the action taken (ex. happy to find it successful, or frustrated to find it unsuccessful).
+
 ### Scenario 2
 
 ## **Reflection:**
