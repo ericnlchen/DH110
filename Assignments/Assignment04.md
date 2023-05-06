@@ -50,9 +50,9 @@ John pulls out his iPhone and taps on the Shared Family Journal app icon. He is 
 
 About 30 minutes later, John receives a notification on his phone that Erica liked his new entry. He re-opens the app to the journal page and sees a new bubble next to his entry that says *”new comments”*. He taps on his entry and is taken to a screen where he can read his entire story. He also notices that when he scrolls down to the end of this story, there is a new section labelled *“comments”* with a box containing a comment from Erica, who apparently got a good laugh out of his story. John smiles, feeling happy and excited to read new entries from his family members when they write their own stories in the journal.
 
-#### Journey Map:
 <p align="center">
   <img src="../Images/journey-john.png" alt="journey map for John" width="900px"/>
 </p>
 
 ## **Reflection:**
+Creating personas and imagining them accomplishing goals within certain scenarios was surprisingly enjoyable. The idea of empathizing with the user seems like a great starting point for developing technology that benefits people's wellbeing. I think this strategy should be applied more extensively in the tech world. For example, I think social media apps should focus on really empathizing with a persona in order to deeply understand how a product might affect users both positively and negatively.
