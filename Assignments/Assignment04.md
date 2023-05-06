@@ -1,4 +1,4 @@
-# **Assignment 4: Persona + Scenario**
+# **Assignment 4: Personas + Scenarios**
 Eric Chen | DH110 | Spring 2023
 
 ## **Introduction -- UX Storytelling:**
