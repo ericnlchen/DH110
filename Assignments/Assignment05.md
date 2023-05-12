@@ -8,12 +8,12 @@ In this assignment, I create two *personas*--fictional characters that represent
 
 ## **Intial Wireframes:**
 <p align="center">
-  <img src="../Images/persona-erica.png" alt="persona information for Erica" width="900px"/>
+  <img src="../Images/wireframe.jpg" alt="initial wireframes"/>
 </p>
 
 ## **Wireflow:**
 <p align="center">
-  <img src="../Images/persona-erica.png" alt="persona information for Erica" width="900px"/>
+  <img src="../Images/wireflow.jpg" alt="wireflows"/>
 </p>
 
 ## **Testing:**
