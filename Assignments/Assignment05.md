@@ -8,7 +8,7 @@ In the previous assignment, I created two *personas*--fictional characters that 
 2. Adding an Entry and Reading New Comments
 
 ## **Intial Wireframes:**
-<p align="center"I 
+<p align="center">
   <img src="../Images/wireframe.jpg" alt="initial wireframes"/>
 </p>
 
