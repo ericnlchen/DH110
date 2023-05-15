@@ -20,14 +20,14 @@ These were the intial screens that I designed for my app. After I started to cre
 </p>
 
 ## **Testing:**
-I tested my wireflow by asking my friend to try to accompish the two tasks by looking at a version of the wireflow without the arrows. My friend told me where they wanted to click and which screen they think this would lead them to. I corrected them when necessary, and noted the issues and points of confusion.
+I tested my wireflow by asking my friend Savannah to try to accompish the two tasks by looking at a version of the wireflow without the arrows. She told me where she wanted to click and which screen she thought this would lead her to. I corrected her when necessary, and noted the issues and points of confusion. I specifically wanted to use a version of my wireframe without arrows in order to ensure that the user was able to deduce the right interactions to accomplish the goal without being prompted by visual cues.
 
 <p align="center">
-  <img src="../Images/wireflow-test-1.jpg" alt="wireflow test 1"/>
+  <img src="../Images/wireflow-test-1.HEIC" alt="wireflow test 1"/>
 </p>
 
 <p align="center">
-  <img src="../Images/wireflow-test-2.jpg" alt="wireflow test 2"/>
+  <img src="../Images/wireflow-test-2.HEIC" alt="wireflow test 2"/>
 </p>
 
 <p align="center">
