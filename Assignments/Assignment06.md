@@ -82,11 +82,16 @@ I ensured that both color schemes achieved an accessibility WCAG2.0 AA level rat
 - Typeface family + size:
   - Main heading: Shadows into Light, 48px
   - Date: Roboto, 16px
-- Entry heading: Shadows into Light, 16px
-- Body text: Roboto, 14px, line-height 150%
-- Button: Roboto bold, 20px
-- Notification badge: Roboto bold, 12px
-- Color scheme: 
+  - Entry heading: Shadows into Light, 16px
+  - Body text: Roboto, 14px, line-height 150%
+  - Button: Roboto bold, 20px
+  - Notification badge: Roboto bold, 12px
+  - I liked the look of the handwritten journal and entry headers. 
+- Moderately rounded shapes
+  - I decided that the moderately rounded entry blocks and buttons made for a playful look without sacrificing professionalism. The very rounded look was less visually appealing and looked childish. My decision matches the goal of the journal, which is to be a lighthearted and fun way to connect while appearing reliable and appealing to all ages.
+- Color scheme:
+  - Ideally I would like to offer both a dark and a light version depending on the user's preference. I think both color schemes look visually appealing and the ability to switch between them might help ease the strain on the user's eyes.
 - Layout grid + spacing: 
-- 
+  - 5 rows (margin 10px, gutter 10px), 3 columns (margin 10px, gutter 10px). Content is centered in the middle of the grid blocks created by the columns and rows.  
+
 ## **Reflection:**
