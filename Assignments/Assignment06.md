@@ -3,25 +3,25 @@
 Eric Chen | DH110 | Spring 2023
 
 ## **Project Description:**
-Description
+My project goal is to design a shared family journal app. I drew inspiration from the "Waffle" app, which enables shared journals but has some usability concerns. By creating personas and sample tasks, I learned that the "Waffle" app could be better suited to elderly people, which is one class of target users that I aim to cater towards. In the previous assignment, I sketched out wireframes/wireflows by hand and had a user attempt to complete tasks by navigating from screen to screen. I identified some issues with my wireframes during this process. For this assignment, I will incorporate everything I have learned about my target user and issues with my old wireframe to create a digitized wireframe in Figma, and design an effective interface for my app.
 
 ## **Digitized Wireflow [(link)](https://www.figma.com/file/PUs2v1y9W7B3x9wLBcEy9T/Wireflow?type=design&node-id=0%3A1&t=jXO7H8gpGTyPT84d-1):**
-Description  
+I created this wireflow by transfering my hand drawn version into Figma. I also incorporated the concerns raised through testing in the previous assignment.  
 
 <p align="center">
   <img src="../Images/digitized-wireflow.png" alt="digitized wireframe from figma"/>
 </p>
 
 ## **Screen Design (Layout Test):**
-Next, I tested design variations for a single screen: the journal homepage which displays the user's entries.  
+Next, I tested design variations for a single screen: the journal homepage which displays all the user's entries.  
 
-For my overall layout grid, I chose to use 5 rows, 1 for the heading, 1 for the "Create New Entry" button, and 3 to display the user's journal entries. The user would be able to see more entries by scrolling, but 3 would be visible without scrolling. I choose to use 3 columns. Even though most of my content is arranged vertically rather than horizontally, this helps with the placement of the home button and list of contributors at the top of the screen. I used a margin of 10px and a gutter of 10px for both columns and rows, because this gave sufficient space between elements. Here is a picture of this general layout:  
+For my overall layout grid, I chose to use 5 rows, 1 for the heading, 1 for the "Create New Entry" button, and 3 to display the user's journal entries. The user would be able to see more entries by scrolling, but 3 are visible without scrolling. I choose to use 3 columns. Even though most of my content is arranged vertically rather than horizontally, this helps with the placement of the home button and list of contributors at the top of the screen. I used a margin of 10px and a gutter of 10px for both columns and rows, because this gave sufficient space between elements. Here is a picture of this general layout:  
 
 <p align="center">
   <img src="../Images/layout-test.png" alt="general layout of screen with rows and columns" width="300px"/>
 </p>
 
-As you can see, I grouped the entry title and content into a rounded rectangle. This aids with the user's ability to see this content as a single group (an application of Gestalt theory).
+I grouped the entry title and content into a rounded rectangle. This aids with the user's ability to see this content as a single group (an application of Gestalt theory).
 
 ### **Typographic Variations:**
 Option 1: Playful look with handwriting style font in main heading.
@@ -77,8 +77,15 @@ I ensured that both color schemes achieved an accessibility WCAG2.0 AA level rat
 
 ## **Impression Test with User:**
 
+
 ## **Summary of Design System:**
-- Typeface family + size: 
+- Typeface family + size:
+  - Main heading: Shadows into Light, 48px
+  - Date: Roboto, 16px
+- Entry heading: Shadows into Light, 16px
+- Body text: Roboto, 14px, line-height 150%
+- Button: Roboto bold, 20px
+- Notification badge: Roboto bold, 12px
 - Color scheme: 
 - Layout grid + spacing: 
 - 
