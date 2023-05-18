@@ -5,7 +5,7 @@ Eric Chen | DH110 | Spring 2023
 ## **Project Description:**
 Description
 
-## **Digitized Wireflow:**
+## **Digitized Wireflow [link](https://www.figma.com/file/PUs2v1y9W7B3x9wLBcEy9T/Wireflow?type=design&node-id=0%3A1&t=jXO7H8gpGTyPT84d-1):**
 Description  
 
 <p align="center">
