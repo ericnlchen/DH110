@@ -49,7 +49,7 @@ Option 3: Professional/elegant look with only serif fonts
 - Notification badge: Playfair display bold, 12px
 
 <p align="center">
-  <img src="../Images/typography-test.png" alt="3 typographic variations"/>
+  <img src="../Images/typography-test.png" alt="3 typographic variations" width="800px"/>
 </p>  
 
 ### **Shape Variations:**
