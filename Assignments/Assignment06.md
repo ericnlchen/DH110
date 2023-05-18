@@ -49,7 +49,7 @@ Option 3: Professional/elegant look with only serif fonts
 - Notification badge: Playfair display bold, 12px
 
 <p align="center">
-  <img src="../Images/typography-test.png" alt="3 typographic variations" width="800px"/>
+  <img src="../Images/typography-test.png" alt="3 typographic variations" width="950px"/>
 </p>  
 
 ### **Shape Variations:**
@@ -58,14 +58,14 @@ Option 2: straight rectangular look
 Option 3: very rounded bubble look
 
 <p align="center">
-  <img src="../Images/shape-test.png" alt="3 shape variations"/>
+  <img src="../Images/shape-test.png" alt="3 shape variations" width="950px"/>
 </p>  
 
 ### **Color Schemes:**
 I created a light mode and a dark mode. The dark mode is essentially the light mode with colors inverted. The only difference is that I manually adjusted the red color of the "New Comments" notification badge.  
 
 <p align="center">
-  <img src="../Images/light-dark.png" alt="2 color schemes: light and dark"/>
+  <img src="../Images/light-dark.png" alt="2 color schemes: light and dark" width="950px"/>
 </p>  
 
 I ensured that both color schemes achieved an accessibility WCAG2.0 AA level rating using the Stark plugin in Figma.  
