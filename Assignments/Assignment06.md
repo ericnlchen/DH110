@@ -77,8 +77,6 @@ I ensured that both color schemes achieved an accessibility WCAG2.0 AA level rat
 
 ## **Impression Test with User:**
 
-## **Accessibility Test:**
-
 ## **Summary of Design System:**
 - Typeface family + size: 
 - Color scheme: 
