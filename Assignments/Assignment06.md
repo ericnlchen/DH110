@@ -71,8 +71,8 @@ I created a light mode and a dark mode. The dark mode is essentially the light m
 I ensured that both color schemes achieved an accessibility WCAG2.0 AA level rating using the Stark plugin in Figma.  
 
 <p align="center">
-  <img src="../Images/stark-light.png" alt="color contrast test for light mode"/>
-  <img src="../Images/stark-dark.png" alt="color contrast test for dark mode"/>
+  <img src="../Images/stark-light.png" alt="color contrast test for light mode" width="400px"/>
+  <img src="../Images/stark-dark.png" alt="color contrast test for dark mode" width="400px"/>
 </p>
 
 ## **Impression Test with User:**
