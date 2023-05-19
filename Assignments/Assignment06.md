@@ -86,7 +86,7 @@ I ensured that both color schemes achieved an accessibility WCAG2.0 AA level rat
   - Body text: Roboto, 14px, line-height 150%
   - Button: Roboto bold, 20px
   - Notification badge: Roboto bold, 12px
-  - I liked the look of the handwritten journal and entry headers. 
+  - I liked the look of the handwritten journal and entry headers. While the serif font looked more professional, it also made the interface appear older and more cluttered. Therefore, I decided to use the sans-serif font for everything besides the headers.
 - Moderately rounded shapes
   - I decided that the moderately rounded entry blocks and buttons made for a playful look without sacrificing professionalism. The very rounded look was less visually appealing and looked childish. My decision matches the goal of the journal, which is to be a lighthearted and fun way to connect while appearing reliable and appealing to all ages.
 - Color scheme:
