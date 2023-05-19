@@ -93,5 +93,3 @@ I ensured that both color schemes achieved an accessibility WCAG2.0 AA level rat
   - Ideally I would like to offer both a dark and a light version depending on the user's preference. I think both color schemes look visually appealing and the ability to switch between them might help ease the strain on the user's eyes.
 - Layout grid + spacing: 
   - 5 rows (margin 10px, gutter 10px), 3 columns (margin 10px, gutter 10px). Content is centered in the middle of the grid blocks created by the columns and rows.  
-
-## **Reflection:**
