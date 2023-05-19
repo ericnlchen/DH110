@@ -5,7 +5,8 @@ Eric Chen | DH110 | Spring 2023
 ## **Project Description:**
 My project goal is to design a shared family journal app. I drew inspiration from the "Waffle" app, which enables shared journals but has some usability concerns. By creating personas and sample tasks, I learned that the "Waffle" app could be better suited to elderly people, which is one class of target users that I aim to cater towards. In the previous assignment, I sketched out wireframes/wireflows by hand and had a user attempt to complete tasks by navigating from screen to screen. I identified some issues with my wireframes during this process. For this assignment, I will incorporate everything I have learned about my target user and issues with my old wireframe to create a digitized wireframe in Figma, and design an effective interface for my app.
 
-## **Digitized Wireflow [(link)](https://www.figma.com/file/PUs2v1y9W7B3x9wLBcEy9T/Wireflow?type=design&node-id=0%3A1&t=jXO7H8gpGTyPT84d-1):**
+## **Digitized Wireflow [(link)](https://www.figma.com/file/PUs2v1y9W7B3x9wLBcEy9T/Shared-Family-Journal-Wireflow-%26-Interface-Design?type=design&node-id=0%3A1&t=lCbSrSJrwexBj1Yo-1
+):**
 I created this wireflow by transfering my hand drawn version into Figma. I also incorporated the concerns raised through testing in the previous assignment.  
 
 <p align="center">
@@ -77,13 +78,22 @@ I ensured that both color schemes achieved an accessibility WCAG2.0 AA level rat
 </p>
 
 ## **Impression Test with User:**
+I showed my interface design to my friend Matt and asked him for his impressions. I encouraged him to share whatever came to mind. Here are some quotes:  
+- "I'm wondering what TC stands for." (TC was supposed to be the initials of another user that the journal is shared with. I will consider ways to make this more clear.)
+- "The font of the underlined titles isn't my favorite."
+- "Adding more color would make it more fun but maybe less professional."  
 
+Some key points were:
+- Matt thought it looked professional
+- He also thought the font was "fun," but he didn't love it. He didn't realize that the main heading font and entry heading fonts were the same, and he only had an issue with the smaller entry heading. So I will change the entry heading font to sans-serif while leaving the main heading the same based off of his feedback.
+- I will also add colors, but not so much that it loses its professional look. Specifically, I will add colors to the user initial bubbles.
 
 ## **Summary of Design System:**
+After considering my design variations and the feedback from the impression test, here is the final design system I settled on:
 - Typeface family + size:
   - Main heading: Shadows into Light, 48px
   - Date: Roboto, 16px
-  - Entry heading: Shadows into Light, 16px
+  - Entry heading: Roboto, 16px
   - Body text: Roboto, 14px, line-height 150%
   - Button: Roboto bold, 20px
   - Notification badge: Roboto bold, 12px
