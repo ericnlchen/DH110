@@ -81,25 +81,32 @@ I showed my interface design to my friend Matt and asked him for his impressions
 - "I'm wondering what TC stands for." (TC was supposed to be the initials of another user that the journal is shared with. I will consider ways to make this more clear.)
 - "The font of the underlined titles isn't my favorite."
 - "Adding more color would make it more fun but maybe less professional."  
+- "It looks like there should be something here (he pointed to the space between the last entry and the create new entry button)."
 
 Some key points were:
 - Matt thought it looked professional
-- He also thought the font was "fun," but he didn't love it. He didn't realize that the main heading font and entry heading fonts were the same, and he only had an issue with the smaller entry heading. So I will change the entry heading font to sans-serif while leaving the main heading the same based off of his feedback.
+- He also thought the handwriting-style font was "fun," but he didn't love it. He didn't realize that the main heading font and entry heading fonts were the same, and he only had an issue with the smaller entry heading. So I will change the entry heading font to sans-serif while leaving the main heading the same based off of his feedback.
 - I will also add colors, but not so much that it loses its professional look. Specifically, I will add colors to the user initial bubbles.
+- I will place the add new entry button right after the last entry, instead of always putting it at the very bottom of the screen. If there are 3 or more entries then the button will be placed at the bottom of the screen as before.
 
 ## **Summary of Design System:**
 After considering my design variations and the feedback from the impression test, here is the final design system I settled on:
 - Typeface family + size:
   - Main heading: Shadows into Light, 48px
   - Date: Roboto, 16px
-  - Entry heading: Roboto, 16px
+  - Entry heading: Roboto bold, 16px
   - Body text: Roboto, 14px, line-height 150%
   - Button: Roboto bold, 20px
   - Notification badge: Roboto bold, 12px
-  - I liked the look of the handwritten journal and entry headers. While the serif font looked more professional, it also made the interface appear older and more cluttered. Therefore, I decided to use the sans-serif font for everything besides the headers.
+  - I liked the look of the handwritten journal headers. I removed the handwritten entry headers after the feedback from the impression test. While the serif font looked more professional, it also made the interface appear older and more cluttered. Therefore, I decided to use the sans-serif font for everything besides the headers.
 - Moderately rounded shapes
-  - I decided that the moderately rounded entry blocks and buttons made for a playful look without sacrificing professionalism. The very rounded look was less visually appealing and looked childish. My decision matches the goal of the journal, which is to be a lighthearted and fun way to connect while appearing reliable and appealing to all ages.
+  - I decided that the moderately rounded entry blocks and buttons made for a playful look without sacrificing professionalism. The very rounded look was less visually appealing and looked childish. My decision is motivated by the goal of the journal, which is to be a lighthearted and fun way to connect while appearing reliable and appealing to all ages.
 - Color scheme:
   - Ideally I would like to offer both a dark and a light version depending on the user's preference. I think both color schemes look visually appealing and the ability to switch between them might help ease the strain on the user's eyes.
 - Layout grid + spacing: 
-  - 5 rows (margin 10px, gutter 10px), 3 columns (margin 10px, gutter 10px). Content is centered in the middle of the grid blocks created by the columns and rows.  
+  - 5 rows (margin 10px, gutter 10px), 3 columns (margin 10px, gutter 10px). Content is centered in the middle of the grid blocks created by the columns and rows. If there are less than 3 entries, the create new entry button is placed in the grid block right after the last entry. Otherwise, it goes in the last grid block at the bottom of the screen.
+
+Here is an image of the journal homescreen implementing this design system:
+<p align="center">
+  <img src="../Images/final-layout.png" alt="final layout" width="300px"/>
+</p>
