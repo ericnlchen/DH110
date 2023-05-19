@@ -12,9 +12,10 @@ I created this wireflow by transfering my hand drawn version into Figma. I also 
   <img src="../Images/digitized-wireflow.png" alt="digitized wireframe from figma"/>
 </p>
 
-## **Screen Design (Layout Test):**
+## **Screen Design:**
 Next, I tested design variations for a single screen: the journal homepage which displays all the user's entries.  
 
+### **Layout:**
 For my overall layout grid, I chose to use 5 rows, 1 for the heading, 1 for the "Create New Entry" button, and 3 to display the user's journal entries. The user would be able to see more entries by scrolling, but 3 are visible without scrolling. I choose to use 3 columns. Even though most of my content is arranged vertically rather than horizontally, this helps with the placement of the home button and list of contributors at the top of the screen. I used a margin of 10px and a gutter of 10px for both columns and rows, because this gave sufficient space between elements. Here is a picture of this general layout:  
 
 <p align="center">
