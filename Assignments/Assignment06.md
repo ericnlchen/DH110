@@ -5,8 +5,7 @@ Eric Chen | DH110 | Spring 2023
 ## **Project Description:**
 My project goal is to design a shared family journal app. I drew inspiration from the "Waffle" app, which enables shared journals but has some usability concerns. By creating personas and sample tasks, I learned that the "Waffle" app could be better suited to elderly people, which is one class of target users that I aim to cater towards. In the previous assignment, I sketched out wireframes/wireflows by hand and had a user attempt to complete tasks by navigating from screen to screen. I identified some issues with my wireframes during this process. For this assignment, I will incorporate everything I have learned about my target user and issues with my old wireframe to create a digitized wireframe in Figma, and design an effective interface for my app.
 
-## **Digitized Wireflow [(link)](https://www.figma.com/file/PUs2v1y9W7B3x9wLBcEy9T/Shared-Family-Journal-Wireflow-%26-Interface-Design?type=design&node-id=0%3A1&t=lCbSrSJrwexBj1Yo-1
-):**
+## **Digitized Wireflow [(link)](https://www.figma.com/file/PUs2v1y9W7B3x9wLBcEy9T/Shared-Family-Journal-Wireflow-%26-Interface-Design?type=design&node-id=0%3A1&t=lCbSrSJrwexBj1Yo-1):**
 I created this wireflow by transfering my hand drawn version into Figma. I also incorporated the concerns raised through testing in the previous assignment.  
 
 <p align="center">
