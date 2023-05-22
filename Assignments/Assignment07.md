@@ -10,7 +10,7 @@ I have been creating wireflows and prototypes around two main user tasks:
 1. Creating a new journal and sharing it with friends and family
 2. Writing a new entry and submitting it to the journal
 
-Since these tasks are relatively easy, I also added another small task: receiving a new comment and reading it. These tasks have been the central focus of the user-centered design process.
+Since these tasks are relatively easy, I also added another small task: receiving a new comment and reading it. These tasks have been the central focus of the user-centered design process--in other words, the prototype is specifically designed to enable my target users to accomplish these two tasks.
 
 ## **Interactive Prototype:**
 Here is the link to my interactive prototype made with Figma:
