@@ -23,3 +23,4 @@ I also revised my wireflow from the previous assignments by implementing my inte
 </p>
 
 ## **Cognitive Walkthrough:**
+To be done in class on Thursday!
