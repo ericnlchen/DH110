@@ -6,6 +6,7 @@ What is the project about? The motivation of the project and possible contributi
 What is the issue and Why do you think it is important to resolve that issue by your project? 
 ### Competitor Analysis
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+[read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment01.md)
 ### User Research
 Summary and link to your assignment folder
 ### UX Storytelling
