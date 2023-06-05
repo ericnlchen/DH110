@@ -19,11 +19,11 @@ To read more about this phase of the project, click the links below.
 Unfortunately, I wasn't able to complete this portion of the project due to personal family issues.  
 
 ### UX Storytelling
-Once I had a general idea of the existing products and their issues, it was time to narrow down the target user and more clearly define how and why a user would engage with my app. In order to accomplish this UX storytelling, I developed two personas--imaginary people who can gain something from my app. Specifically, I chose to make my personas a high schooler and her grandfather, since this matches my vision of connecting families across multiple generations. For each persona, I described the tasks/goals that they might try to accomplish on my app. The highschooler creates a journal and shares it with her grandfather, and the grandfather creates a new entry in the journal and posts it for his granddaughter to read.
+Once I had a general idea of the existing products and their issues, it was time to narrow down the target user and more clearly define how and why a user would engage with my app. In order to accomplish this UX storytelling, I developed two personas--imaginary people who can gain something from my app. Specifically, I chose to make my personas a high schooler and her grandfather, since this matches my vision of connecting families across multiple generations. For each persona, I described the tasks/goals that they might try to accomplish on my app. The highschooler creates a journal and shares it with her grandfather, and the grandfather creates a new entry in the journal and posts it for his granddaughter to read.  
 [read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment04.md)
 
 ### Wireframe and Graphic Design Element Variation  
-Once the tasks had been decided upon through UX storytelling, the next step was to design the functionality and interface to accomodate those tasks. I began with a simple wireflow of my app which showed various screens connected by arrows to illustrate where a user navigates by tapping the on-screen elements. Then, I experimented with different design choices for the interface, including font, size, and shape of UI elements. I decided on a standard graphic design system that would be implemented across the app.
+Once the tasks had been decided upon through UX storytelling, the next step was to design the functionality and interface to accomodate those tasks. I began with a simple wireflow of my app which showed various screens connected by arrows to illustrate where a user navigates by tapping the on-screen elements. Then, I experimented with different design choices for the interface, including font, size, and shape of UI elements. I decided on a standard graphic design system that would be implemented across the app.  
 [read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment06.md)
 
 ### Low-Fidelity Prototype
@@ -31,7 +31,7 @@ I drew a low-fidelity prototype by hand in order to get a sense for the flow of 
 [read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment05.md)
 
 ### High-Fidelity Prototype
-Finally, I took my low-fidelity prototype, digitized it, polished it, and made it adherent to the graphic design system that I decided on. I used Figma for this portion of the project. You can read more about my process at the link below.
+Finally, I took my low-fidelity prototype, digitized it, polished it, and made it adherent to the graphic design system that I decided on. I used Figma for this portion of the project. You can read more about my process at the link below.  
 [read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment07.md)
 
 ### Evaluation and Revision History
@@ -40,7 +40,7 @@ Throughout my project, I constantly evaluated my design and adjusted it accordin
 The first means of testing was the usability test that I conducted on the competitor app Waffle. I asked my brother to try to accomplish certain tasks in the app while talking out loud about his thought process. This initial evaluation showed me some clear flaws with their design, like the broken drafts feature and the general difficulty of use for elderly users. I incorportated these ideas into my app as I moved forward through the UCD process. Specifically, these findings influenced me to choose an elderly grandfather as one of my two personas, to ensure that I designed with elderly users in mind.  
 [click here for video of test...](https://www.youtube.com/watch?v=p_ZU-9lD03c)
 
-The second test I conducted was a mini usability test of my low-fidelity prototype. For this evaluation, I asked my friend Savannah to try to accomplish the tasks I had chosen. Since my wireflow was drawn by hand, I showed her a screen, asked her to tell me which button she would tap, and told her which new screen that this would take her to. This test showed me some missing functionality that I hadn't considered, like cancel buttons and labels that show who a journal is currently shared with. 
+The second test I conducted was a mini usability test of my low-fidelity prototype. For this evaluation, I asked my friend Savannah to try to accomplish the tasks I had chosen. Since my wireflow was drawn by hand, I showed her a screen, asked her to tell me which button she would tap, and told her which new screen that this would take her to. This test showed me some missing functionality that I hadn't considered, like cancel buttons and labels that show who a journal is currently shared with.  
 [click here for pictures and notes...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment05.md#testing)
 
 After developing my graphic design system, I asked my friend Matt to help me with an impression test. I asked him to take a look at my journal homepage wireframe and tell me anything that came to mind about the design. He commented on the look and feel of the buttons, saying that it looked professional while also fun. He also gave me a very useful piece of feedback about the font--the handwritten and underlined font was almost illegible. I took this information into account and redesigned the entry titles to use the standard sans-serif font instead.  
