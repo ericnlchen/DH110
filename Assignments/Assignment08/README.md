@@ -59,6 +59,7 @@ Also as part of my interface design, I conducted an accessibility test to ensure
 Finally, once I had developed my high-fidelity prototype, I engaged in a cognitive walkthrough with some of my classmates. In this process, we each attempted to use one another's app and we gave feedback on how easy it was to accomplish the goal. One specific point that I found interesting was that we were asked to comment on how easy it was for us to recognize that progress had been made towards the goal upon taking an action. This was something I hadn't considered before.
 
 ### Pitch Video
+[![My video](http://img.youtube.com/vi/yDX_bUpcfqc/0.jpg)](https://www.youtube.com/watch?v=yDX_bUpcfqc "My video")  
 
 ### Conclusion
 This project was extremely valuable to me because I had the chance to try every aspect of the user-centered design process from end to end. I think my biggest learning point was to never neglect the beginning portion of process in which I actually connected with users--including usability testing, user research, and testing of prototypes. Before taking this class, I designed a personal blog website, but I never consulted users or performed testing on my design. Now, looking back on that project, I realize how much better my design could have been if I had made usability testing and user research a part of my process. I am inspired to go back to that project and revampt the design with my new tools that I learned by designing this shared family journal app.  
