@@ -1,7 +1,7 @@
 # Shared Family Journal
 ## Eric Chen
 <p align="center">
-  <img src="../../Images/final-layout.png" alt="final layout" width="300px"/>
+  <img src="../../Images/app-homepage.png" alt="final layout" width="300px"/>
 </p>
 
 
