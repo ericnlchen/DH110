@@ -1,5 +1,8 @@
 # Shared Family Journal
 ## Eric Chen
+<p align="center">
+  <img src="../Images/final-layout.png" alt="final layout" width="300px"/>
+</p>
 ### Introduction
 The goal of this project is to design a mobile app to help families connect. Specifically, we were tasked with enhancing connection between at least 3 generations. In brainstorming solutions to this problem, I reflected on some of the ways that I like to connect with my family. One of the biggest methods that popped into my head was through stories--my brother and I always love hearing my grandpa tell stories about when he was younger. Inspired by the idea of sharing stories, I decided to create a shared family jounalling app. This app would be a flexible platform that allows family members of all ages to share stories of all kinds, whether it's a story from long ago or a simple anecdote from their daily life. Other familiy members can read these stories and comment on them. I envision this app helping all families, but especially those whose members live far apart from one another. In this case, short daily interactions in writing can really glue the family together and allow for consistent connection at long distance.
 ### Design Statement
