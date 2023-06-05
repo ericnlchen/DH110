@@ -1,4 +1,4 @@
-# Shared Family Journal -- Enhancing Family Connection Across Generations
+# Shared Family Journal: Enhancing Family Connections
 ## by Eric Chen
 <p align="center">
   <img src="../../Images/app-homepage.png" alt="final layout" width="300px"/>
