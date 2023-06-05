@@ -5,30 +5,38 @@ The goal of this project is to design a mobile app to help families connect. Spe
 ### Design Statement
 As stated above, the main issue I am attempting to solve is being out of touch with family, due to living far away or interacting infrequently. I see this as especially relevant to the connection between young people and their grandparents. It can be hard to bridge the generational divide between these groups, since their cultures and ways of life may be quite different. Nevertheless, it can be fulfilling for young people to interact with their grandparents, because they can learn about their family history, gain new perspective on their lives, and form a meaningful connection with someone who cares for them. My app will help facilitate this meaningful connection.
 ### Competitor Analysis
-The first step towards developing my app was to take a look at existing products through a critical lens. We do this in order to evaluate the strengths and weaknesses of the status quo, in order to learn from strengths and improve upon weaknesses in our new product. It is also important to review existing products in order to ensure that the new product adds something new rather than just copying something that already existed. For my competitor analysis, I focused on two family connection apps--a family organiational app called Family Wall, and a shared journal app called Waffle.  
+The first step towards developing my app was to take a look at existing products through a critical lens. We do this in order to evaluate the strengths and weaknesses of the status quo, and to learn from strengths and improve upon weaknesses in our new product. It is also important to review existing products to ensure that the new product adds something of value. For my competitor analysis, I focused on two family connection apps--a family organiational app called Family Wall, and a shared journal app called Waffle.  
 
-I analyzed these apps in two different ways. First, I conducted a **heuristic analysis** in which I analyzed how effectively the 2 apps conformed to Nielsen's 10 usability heuristics. These heuristics include general guidelines for improving usability, like "consistency" and "recognition over recall".
+I analyzed these apps in two different ways. First, I conducted a **heuristic analysis** in which I analyzed how effectively the 2 apps conformed to Nielsen's 10 usability heuristics. These heuristics include general guidelines for improving usability, like "consistency" and "recognition over recall". The goal of this analysis is to discover usability issues by applying a theoretical framework developed by experts.  
 
+In contrast to this method, I also conducted **usability testing**. In usability testing, I asked a volunteer user to attempt accomplishing certain goals using the product while talking out loud about any pain points that they encountered. While the heuristic analysis may be a useful starting point for identifying issues, there is no replacement for testing the product with an actual user. Doing so helped me uncover a lot more specific issues and hidden flaws that I didn't notice during heuristic analysis.  
 
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated  
+To read more about this phase of the project, click the links below.  
+
 [read more about heuristic analysis...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment01.md)  
 [read more about usability...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment02.md)
 ### User Research
-Summary and link to your assignment folder  
-[read more...]()
+Unfortunately, I wasn't able to complete this portion of the project due to personal family issues.  
+
 ### UX Storytelling
 Summary and link to your assignment folder  
 [read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment04.md)
+
 ### Wireframe and Graphic Design Element Variation  
 [read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment06.md)
+
 ### Low-Fidelity Prototype
 Summary and link to the sketches (may contains the multiple versions and evaluation history)  
 [read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment05.md)
+
 ### High-Fidelity Prototype
 Summary statement and link to or an embedded prototype  
 [read more...](https://github.com/ericnlchen/DH110/blob/main/Assignments/Assignment07.md)
+
 ### Evaluation and Revision History
 Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
 ### Pitch Video
+
 ### Conclusion
 what did you learn throughout the process?
